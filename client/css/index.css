@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    word-break: break-all;
+}
+.isShow{
+    width: 400px;
+    height: 400px;
+    /*border:1px solid #f40;*/
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color:pink;
+    border-radius:10px;
+    padding-top:120px;
+    padding-left: 30px;
+    padding-right: 30px;
+    opacity: .8;
+}
+h3{
+    text-align: center;
+    position: relative;
+    top: -50px;
+}
+#nowtime{
+    font-size: 15px;
+    color:#f40;
+    position: relative;
+    top: 30px;
+    margin: auto;
+}
+.chatPage{
+    display: flex;
+    width: 70%;
+    height: 80%;
+    /*border:1px solid #f40;*/
+    border-radius: 10px;
+    position: absolute;
+    margin:auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.left{
+    width: 70%;
+    height: 100%; 
+   
+    /*border:1px solid #f40;*/
+  
+}
+.right{  
+    width: 30%;
+    height: 100%;
+   border-radius: 10px;
+   background-image: url(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2357463869,2740634290&fm=26&gp=0.jpg);
+    /*background: linear-gradient(45deg,rgba(254,172,94,0.5),rgba(199,121,208,0.5),rgba(75,192,200,0.5));*/
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+.status{
+    background-color: #000;
+    opacity: .6;
+    
+}
+
+#num{
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+}
+ul{
+    height: 67%;
+    overflow:auto;
+    /*overflow-y: scroll;*/
+    background: #F5F5F5;
+    border-radius: 10px;
+}
+ul>li{
+    list-style: none;
+}
+
+.ctrl{
+    display: flex;
+    /*border: 1px solid #f40;*/
+    height: 30%;
+}
+textarea{
+    width:70%;
+     border-radius: 10px;
+} 
+#shake{
+    width:10%;
+}
+#sendBtn{
+    flex: 1;
+}
+p.system {
+    color: #888;
+    text-align: center;
+    margin: 5px;
+}
+p.system span {
+    background-color: #eee;
+    border-radius: 9px;
+    padding: 1px 5px;    
+    margin-bottom: 7px;
+    display: inline-block;
+}
+p.WebSocket {
+    color: #f40;
+    text-align: center;
+    /*margin: 5px;*/
+}
+p.WebSocket span {
+    background-color: #fff;
+    border-radius: 9px;
+    padding: 1px 5px;    
+    margin-bottom: 1px;
+    display: inline-block;
+}
+
+div.list-left{
+text-align: left;
+ margin-left: 10px;
+}
+div.list-left span.name-left{
+   color:#000;
+   font-weight: bold;
+}
+div.list-left span.message-left{
+    background-color: skyblue;
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 5px;
+ }
+
+
+
+div.list-right{
+    text-align: right;
+    margin-right: 10px;
+    }
+div.list-right span.name-right{
+    color:#000;
+   font-weight: bold;
+         }
+div.list-right span.message-right{
+    background-color: #9EEA6A;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+                 }
