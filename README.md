@@ -1,5 +1,5 @@
 # chat-room
-这是我用Koa2和WebSocket搭建的简易聊天室项目，如果有幸被小伙伴们下载使用，请务必对错误的地方批评指正，真心希望我们可以一起学习交流！
+这是我用Node.js和WebSocket搭建的简易聊天室项目，如果有幸被小伙伴们下载使用，请务必对错误的地方批评指正，真心希望我们可以一起学习交流！
 ###### 技术栈：WS（WebSocket库） + vue + jquery  
 ###### 链  接：http://175.24.18.36/chat-room.html
 ###### 安  装：在server文件夹下，使用命令行工具,输入 npm install --save
