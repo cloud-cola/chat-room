@@ -10,7 +10,7 @@
 3.本人水平有限，描述存在一定的遗漏和不精确的地方，欢迎指出。（狗头保命^.^）  
 # 演示截图  
 ### 登录界面
-![](http://cdn.mc.huluxia.net/g4/M01/4F/37/rBAAdl9l2faARUeOAABexpaLfdo406.png)  
+![image](http://cdn.mc.huluxia.net/g4/M01/4F/37/rBAAdl9l2faARUeOAABexpaLfdo406.png)  
 
 ### 聊天界面  
-![](http://cdn.mc.huluxia.net/g4/M01/4F/38/rBAAdl9l2mmAfVKFAAsaqxaa68E948.png)
+![image](http://cdn.mc.huluxia.net/g4/M01/4F/38/rBAAdl9l2mmAfVKFAAsaqxaa68E948.png)
